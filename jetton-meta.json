@@ -1,0 +1,13 @@
+{
+  "name": "BlueStacks BCX",
+  "description": "Official BlueStacks Game Platform Token",
+  "symbol": "BCX",
+  "image": "https://bcxcoin.github.io/website/BlueStacks_BCX_coinFront512.png",
+  "decimals": 9,
+  "social_links": [
+    "https://bcx.bluestacks.com",
+    "https://x.com/bluestackscoin",
+    "https://t.me/bcxnow",
+    "https://t.me/bluestacks_bot"
+  ]
+}
